@@ -1,3 +1,3 @@
-1 # forex
+ forex
 
 trade them!
