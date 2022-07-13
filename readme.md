@@ -1,3 +1,3 @@
  forex
 
-trade them!
+trade them!!
